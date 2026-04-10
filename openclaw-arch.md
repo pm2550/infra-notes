@@ -35,7 +35,7 @@ Claude CLI (claude-opus-4-6)            Claude CLI (claude-opus-4-6)
 
 ```bash
 # authorized_keys 里是这样的
-command="/home/pi/claude-relay.sh" ssh-ed25519 AAAA...
+command="/home/[user]/claude-relay.sh" ssh-ed25519 AAAA...
 ```
 
 relay 脚本做两件事：
